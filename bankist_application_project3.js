@@ -2,14 +2,14 @@
 
 //Data
 const account1 = {
-  owner: "Andrzej Andrzej",
+  owner: "Andrew Andrew",
   movements: [300, 240, -250, 5000, -700, -100, 60, 990],
   interestRate: 1.2, // %
   pin: 1111,
 };
 
 const account2 = {
-  owner: "Bogumiła Bogumiła",
+  owner: "Barbara Barbara",
   movements: [4000, 2200, -150, -130, -4500, 100, -60],
   interestRate: 1.5, // %
   pin: 2222,
@@ -23,7 +23,7 @@ const account3 = {
 };
 
 const account4 = {
-  owner: "Darek Dariusz",
+  owner: "Dominic Dominic",
   movements: [500, 540, 150, 1000, 20],
   interestRate: 1, // %
   pin: 4444,
